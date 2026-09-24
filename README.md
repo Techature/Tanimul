@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Tanimul is a fun little web app that listens to your voice and plays a matching animal animation "speaking" your sound. Built with 💚 by <a href="https://github.com/Techature">Techature</a>.
+  Tanimul is a fun little web app that listens to your voice and plays a matching animal animation "speaking" your sound. 💚 Built by <a href="https://github.com/Techature">Techature</a>.
 </p>
 
 ---
