@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-background: #e8e8e8;
+  --color-pastel-yellow: #fff3b0;
+  --color-pastel-green: #b8e6b8;
+  --color-pastel-purple: #d4b8e8;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: 'Fredoka', sans-serif;
+  background-color: var(--color-background);
+  color: #333;
+}
+
+#root {
+  min-height: 100vh;
+}
