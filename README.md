@@ -10,18 +10,18 @@
 
 ---
 
-### 🌱 What it does
+### 🌱 What It Does
 
 1. Pick an animal 😺🐝🐶
 2. You record your voice 🎙️
 3. Watch the animal "say" it with a fun animation!
 
-### 🛠️ Built with
+### 🛠️ Tech Stack
 
 - **Vite** + **TypeScript**
 - **Tailwind CSS**
 
-### 🚀 Getting started
+### 🚀 Getting Started
 
 ```bash
 git clone https://github.com/Techature/Tanimul.git
