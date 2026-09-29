@@ -26,6 +26,7 @@
 ```bash
 git clone https://github.com/Techature/Tanimul.git
 cd Tanimul
+npm install
 npm run dev
 ```
 
